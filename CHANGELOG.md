@@ -1,7 +1,7 @@
 <a name="v0.7.0"></a>
 ## v0.7.0 (2016-02-26)
-第一次提交
-
+第一次提
+第二次提交
 #### Bug Fixes
 
 * Apply fix from #22 to vertical positioning ([dfc64916](http://github.com/dsmorse/gridster.js/commit/dfc649168c5b6a2a230b90a47e19621a6937fc7c))
