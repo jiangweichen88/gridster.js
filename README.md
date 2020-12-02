@@ -5,6 +5,7 @@
 [![Bower version](https://badge.fury.io/bo/gridster-js.svg)](http://bower.io/search/?q=gridster-js)
 是第一次提
 dierc
+disance
 Gridster.js
 ===========
 
