@@ -2,8 +2,7 @@
 [![GitHub version](https://badge.fury.io/gh/dsmorse%2Fgridster.js.svg)](http://dsmorse.github.io/gridster.js/)
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 [![Gem Version](https://badge.fury.io/rb/gridster.js-rails.svg)](https://rubygems.org/gems/gridster.js-rails)
-[![Bower version](https://badge.fury.io/bo/gridster-js.svg)](http://bower.io/search/?q=gridster-js)
-
+[![Bower version](https://badge.fury.io/bo/gridster-js.svg)](http://bower.io/search/?q=gridster-js)是第一次提交
 Gridster.js
 ===========
 
